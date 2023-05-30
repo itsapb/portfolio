@@ -1,0 +1,23 @@
+.btn-yellow {
+  background-color: #EAC435;
+  padding: 0.5%;
+  text-decoration: none;
+  color: black;
+  font-size: 120%;
+}
+
+.btn-pink {
+  background-color: #E40066;
+  padding: 0.5%;
+  text-decoration: none;
+  color: black;
+  font-size: 120%;
+}
+
+.btn-black {
+  background-color: black;
+  padding: 0.5%;
+  text-decoration: none;
+  color: white;
+  font-size: 120%;
+}
